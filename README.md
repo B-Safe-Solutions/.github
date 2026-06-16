@@ -294,25 +294,6 @@ Para saber mais sobre a startup, acompanhar a evolução dos projetos ou convers
 
 ---
 
-## Publicação no GitHub
-
-Para exibir este README na página inicial da organização no GitHub:
-
-1. Crie um repositório chamado **`.github`** dentro da organização;
-2. Dentro dele, crie a pasta **`profile`**;
-3. Adicione este arquivo como **`profile/README.md`**;
-4. Publique o repositório como público, caso queira que o README apareça para visitantes externos.
-
-Estrutura esperada:
-
-```text
-.github/
-└── profile/
-    └── README.md
-```
-
----
-
 <div align="center">
 
 **B.Safe Solutions**  
